@@ -31,4 +31,4 @@ Speechful è un progetto puramente dimostrativo: non esiste un backend reale e t
 
 ## Preview link
 
-Preview: 
+Preview: https://capurrooalessandro.github.io/speechful-vue-js/
