@@ -28,3 +28,7 @@ La pagina simula il sito di presentazione di un prodotto SaaS: un app di nome Sp
 ## Note
 
 Speechful è un progetto puramente dimostrativo: non esiste un backend reale e tutti i contenuti (testi, numeri, feature) sono pensati come placeholder per esercitazione sul framework front-end "Vue.js".
+
+## Preview link
+
+Preview: 
