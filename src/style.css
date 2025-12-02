@@ -5,4 +5,6 @@
     --font-noto-sans: "Noto Sans", sans-serif;
     --breakpoint-xs: 30rem;
 }
-@plugin "daisyui";
+@plugin "daisyui" {
+    themes: dark, --prefersdark;
+}
